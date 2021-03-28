@@ -1,0 +1,29 @@
+model_k_10
+Accuracy: 10 %
+
+model_k_100
+Accuracy: 33 %
+
+model_k_500
+Accuracy: 31 %
+
+model_k_1000
+Accuracy: 47 %
+
+model_k_2000
+Accuracy: 22 %
+
+model_r_10
+Accuracy: 23 %
+
+model_r_50
+Accuracy: 34 %
+
+model_r_200
+Accuracy: 34 %
+
+model_r_500
+Accuracy: 10 %
+
+model_r_1000
+Accuracy: 12 %
